@@ -1,0 +1,1 @@
+Esse é uma versão do Simple Startup Game com a classe Startup aprimorada do capítulo 6
